@@ -107,6 +107,10 @@ envoy 框架的配置
 - [官方地址](https://eslint.org)
 
 
+## .jsconfig.json
+- 定义实验性 features
+
+
 ### .gitignore
 - 部分文件我们不希望被 push 到 git 上造成污染或者冲突
 
